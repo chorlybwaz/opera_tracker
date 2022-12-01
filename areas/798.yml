@@ -1,0 +1,1440 @@
+-
+  beats: [0, 2]
+  quarters: [0, 2]
+  seconds: [0, 0.6]
+  page: 1
+  topLeft: [0.17348, 0.110711]
+  topRight: [0.311725, 0.110018]
+  bottomRight: [0.31481, 0.580195]
+  bottomLeft: [0.17714, 0.580853]
+-
+  beats: [2, 4]
+  quarters: [2, 4]
+  seconds: [0.6, 1.2]
+  page: 1
+  topLeft: [0.311725, 0.110018]
+  topRight: [0.386574, 0.109642]
+  bottomRight: [0.389348, 0.579838]
+  bottomLeft: [0.31481, 0.580195]
+-
+  beats: [4, 6]
+  quarters: [4, 6]
+  seconds: [1.2, 1.8]
+  page: 1
+  topLeft: [0.386574, 0.109642]
+  topRight: [0.459961, 0.109274]
+  bottomRight: [0.46243, 0.579488]
+  bottomLeft: [0.389348, 0.579838]
+-
+  beats: [6, 8]
+  quarters: [6, 8]
+  seconds: [1.8, 2.4]
+  page: 1
+  topLeft: [0.459961, 0.109274]
+  topRight: [0.532124, 0.108913]
+  bottomRight: [0.534294, 0.579145]
+  bottomLeft: [0.46243, 0.579488]
+-
+  beats: [8, 10]
+  quarters: [8, 10]
+  seconds: [2.4, 3]
+  page: 1
+  topLeft: [0.532124, 0.108913]
+  topRight: [0.613881, 0.108503]
+  bottomRight: [0.615711, 0.578755]
+  bottomLeft: [0.534294, 0.579145]
+-
+  beats: [10, 12]
+  quarters: [10, 12]
+  seconds: [3, 3.6]
+  page: 1
+  topLeft: [0.613881, 0.108503]
+  topRight: [0.686866, 0.108137]
+  bottomRight: [0.688393, 0.578408]
+  bottomLeft: [0.615711, 0.578755]
+-
+  beats: [12, 14]
+  quarters: [12, 14]
+  seconds: [3.6, 4.2]
+  page: 1
+  topLeft: [0.686866, 0.108137]
+  topRight: [0.775358, 0.107693]
+  bottomRight: [0.776517, 0.577986]
+  bottomLeft: [0.688393, 0.578408]
+-
+  beats: [14, 16]
+  quarters: [14, 16]
+  seconds: [4.2, 4.8]
+  page: 1
+  topLeft: [0.775358, 0.107693]
+  topRight: [0.84647, 0.107337]
+  bottomRight: [0.847333, 0.577647]
+  bottomLeft: [0.776517, 0.577986]
+-
+  beats: [16, 18]
+  quarters: [16, 18]
+  seconds: [4.8, 5.4]
+  page: 1
+  topLeft: [0.84647, 0.107337]
+  topRight: [0.929661, 0.106919]
+  bottomRight: [0.930178, 0.577251]
+  bottomLeft: [0.847333, 0.577647]
+-
+  beats: [18, 20]
+  quarters: [18, 20]
+  seconds: [5.4, 6]
+  page: 1
+  topLeft: [0.107318, 0.647962]
+  topRight: [0.221718, 0.647384]
+  bottomRight: [0.223865, 0.908105]
+  bottomLeft: [0.109646, 0.908815]
+-
+  beats: [20, 22]
+  quarters: [20, 22]
+  seconds: [6, 6.6]
+  page: 1
+  topLeft: [0.221718, 0.647384]
+  topRight: [0.296625, 0.647005]
+  bottomRight: [0.298654, 0.90764]
+  bottomLeft: [0.223865, 0.908105]
+-
+  beats: [22, 24]
+  quarters: [22, 24]
+  seconds: [6.6, 7.2]
+  page: 1
+  topLeft: [0.296625, 0.647005]
+  topRight: [0.366495, 0.646651]
+  bottomRight: [0.368415, 0.907207]
+  bottomLeft: [0.298654, 0.90764]
+-
+  beats: [24, 26]
+  quarters: [24, 26]
+  seconds: [7.2, 7.8]
+  page: 1
+  topLeft: [0.366495, 0.646651]
+  topRight: [0.454393, 0.646207]
+  bottomRight: [0.456175, 0.906661]
+  bottomLeft: [0.368415, 0.907207]
+-
+  beats: [26, 28]
+  quarters: [26, 28]
+  seconds: [7.8, 8.4]
+  page: 1
+  topLeft: [0.454393, 0.646207]
+  topRight: [0.524467, 0.645852]
+  bottomRight: [0.52614, 0.906226]
+  bottomLeft: [0.456175, 0.906661]
+-
+  beats: [28, 30]
+  quarters: [28, 30]
+  seconds: [8.4, 9]
+  page: 1
+  topLeft: [0.524467, 0.645852]
+  topRight: [0.612695, 0.645406]
+  bottomRight: [0.614229, 0.905678]
+  bottomLeft: [0.52614, 0.906226]
+-
+  beats: [30, 32]
+  quarters: [30, 32]
+  seconds: [9, 9.6]
+  page: 1
+  topLeft: [0.612695, 0.645406]
+  topRight: [0.681791, 0.645057]
+  bottomRight: [0.683217, 0.90525]
+  bottomLeft: [0.614229, 0.905678]
+-
+  beats: [32, 34]
+  quarters: [32, 34]
+  seconds: [9.6, 10.2]
+  page: 1
+  topLeft: [0.681791, 0.645057]
+  topRight: [0.761386, 0.644654]
+  bottomRight: [0.762687, 0.904756]
+  bottomLeft: [0.683217, 0.90525]
+-
+  beats: [34, 36]
+  quarters: [34, 36]
+  seconds: [10.2, 10.8]
+  page: 1
+  topLeft: [0.761386, 0.644654]
+  topRight: [0.836378, 0.644275]
+  bottomRight: [0.837562, 0.90429]
+  bottomLeft: [0.762687, 0.904756]
+-
+  beats: [36, 38]
+  quarters: [36, 38]
+  seconds: [10.8, 11.4]
+  page: 1
+  topLeft: [0.836378, 0.644275]
+  topRight: [0.931989, 0.643791]
+  bottomRight: [0.933023, 0.903697]
+  bottomLeft: [0.837562, 0.90429]
+-
+  beats: [38, 40]
+  quarters: [38, 40]
+  seconds: [11.4, 12]
+  page: 2
+  topLeft: [0.115335, 0.0775355]
+  topRight: [0.228534, 0.0779233]
+  bottomRight: [0.227111, 0.414933]
+  bottomLeft: [0.1143, 0.414597]
+-
+  beats: [40, 42]
+  quarters: [40, 42]
+  seconds: [12, 12.6]
+  page: 2
+  topLeft: [0.228534, 0.0779233]
+  topRight: [0.303979, 0.0781818]
+  bottomRight: [0.302298, 0.415157]
+  bottomLeft: [0.227111, 0.414933]
+-
+  beats: [42, 44]
+  quarters: [42, 44]
+  seconds: [12.6, 13.2]
+  page: 2
+  topLeft: [0.303979, 0.0781818]
+  topRight: [0.384512, 0.0784576]
+  bottomRight: [0.382555, 0.415396]
+  bottomLeft: [0.302298, 0.415157]
+-
+  beats: [44, 46]
+  quarters: [44, 46]
+  seconds: [13.2, 13.8]
+  page: 2
+  topLeft: [0.384512, 0.0784576]
+  topRight: [0.462194, 0.0787237]
+  bottomRight: [0.45997, 0.415627]
+  bottomLeft: [0.382555, 0.415396]
+-
+  beats: [46, 48]
+  quarters: [46, 48]
+  seconds: [13.8, 14.4]
+  page: 2
+  topLeft: [0.462194, 0.0787237]
+  topRight: [0.533491, 0.078968]
+  bottomRight: [0.531023, 0.415839]
+  bottomLeft: [0.45997, 0.415627]
+-
+  beats: [48, 50]
+  quarters: [48, 50]
+  seconds: [14.4, 15]
+  page: 2
+  topLeft: [0.533491, 0.078968]
+  topRight: [0.609557, 0.0792286]
+  bottomRight: [0.606829, 0.416064]
+  bottomLeft: [0.531023, 0.415839]
+-
+  beats: [50, 52]
+  quarters: [50, 52]
+  seconds: [15, 15.6]
+  page: 2
+  topLeft: [0.609557, 0.0792286]
+  topRight: [0.682751, 0.0794793]
+  bottomRight: [0.679772, 0.416282]
+  bottomLeft: [0.606829, 0.416064]
+-
+  beats: [52, 54]
+  quarters: [52, 54]
+  seconds: [15.6, 16.2]
+  page: 2
+  topLeft: [0.682751, 0.0794793]
+  topRight: [0.782128, 0.0798197]
+  bottomRight: [0.778808, 0.416577]
+  bottomLeft: [0.679772, 0.416282]
+-
+  beats: [54, 56]
+  quarters: [54, 56]
+  seconds: [16.2, 16.8]
+  page: 2
+  topLeft: [0.782128, 0.0798197]
+  topRight: [0.852755, 0.0800617]
+  bottomRight: [0.849193, 0.416786]
+  bottomLeft: [0.778808, 0.416577]
+-
+  beats: [56, 58]
+  quarters: [56, 58]
+  seconds: [16.8, 17.4]
+  page: 2
+  topLeft: [0.852755, 0.0800617]
+  topRight: [0.945436, 0.0803791]
+  bottomRight: [0.941557, 0.417062]
+  bottomLeft: [0.849193, 0.416786]
+-
+  beats: [58, 60]
+  quarters: [58, 60]
+  seconds: [17.4, 18]
+  page: 2
+  topLeft: [0.114042, 0.474882]
+  topRight: [0.23402, 0.475184]
+  bottomRight: [0.229107, 0.897175]
+  bottomLeft: [0.109129, 0.896872]
+-
+  beats: [60, 62]
+  quarters: [60, 62]
+  seconds: [18, 18.6]
+  page: 2
+  topLeft: [0.23402, 0.475184]
+  topRight: [0.332017, 0.475431]
+  bottomRight: [0.327104, 0.897422]
+  bottomLeft: [0.229107, 0.897175]
+-
+  beats: [62, 64]
+  quarters: [62, 64]
+  seconds: [18.6, 19.2]
+  page: 2
+  topLeft: [0.332017, 0.475431]
+  topRight: [0.408563, 0.475625]
+  bottomRight: [0.403649, 0.897615]
+  bottomLeft: [0.327104, 0.897422]
+-
+  beats: [64, 66]
+  quarters: [64, 66]
+  seconds: [19.2, 19.8]
+  page: 2
+  topLeft: [0.408563, 0.475625]
+  topRight: [0.492395, 0.475836]
+  bottomRight: [0.487481, 0.897827]
+  bottomLeft: [0.403649, 0.897615]
+-
+  beats: [66, 68]
+  quarters: [66, 68]
+  seconds: [19.8, 20.4]
+  page: 2
+  topLeft: [0.492395, 0.475836]
+  topRight: [0.577559, 0.476051]
+  bottomRight: [0.572645, 0.898042]
+  bottomLeft: [0.487481, 0.897827]
+-
+  beats: [68, 70]
+  quarters: [68, 70]
+  seconds: [20.4, 21]
+  page: 2
+  topLeft: [0.577559, 0.476051]
+  topRight: [0.663505, 0.476268]
+  bottomRight: [0.658592, 0.898258]
+  bottomLeft: [0.572645, 0.898042]
+-
+  beats: [70, 72]
+  quarters: [70, 72]
+  seconds: [21, 21.6]
+  page: 2
+  topLeft: [0.663505, 0.476268]
+  topRight: [0.738175, 0.476456]
+  bottomRight: [0.733262, 0.898447]
+  bottomLeft: [0.658592, 0.898258]
+-
+  beats: [72, 74]
+  quarters: [72, 74]
+  seconds: [21.6, 22.2]
+  page: 2
+  topLeft: [0.738175, 0.476456]
+  topRight: [0.80726, 0.476631]
+  bottomRight: [0.802346, 0.898621]
+  bottomLeft: [0.733262, 0.898447]
+-
+  beats: [74, 76]
+  quarters: [74, 76]
+  seconds: [22.2, 22.8]
+  page: 2
+  topLeft: [0.80726, 0.476631]
+  topRight: [0.870822, 0.476791]
+  bottomRight: [0.865908, 0.898781]
+  bottomLeft: [0.802346, 0.898621]
+-
+  beats: [76, 78]
+  quarters: [76, 78]
+  seconds: [22.8, 23.4]
+  page: 2
+  topLeft: [0.870822, 0.476791]
+  topRight: [0.940522, 0.476967]
+  bottomRight: [0.935609, 0.898957]
+  bottomLeft: [0.865908, 0.898781]
+-
+  beats: [78, 80]
+  quarters: [78, 80]
+  seconds: [23.4, 24]
+  page: 3
+  topLeft: [0.104215, 0.0844217]
+  topRight: [0.217637, 0.0839812]
+  bottomRight: [0.220878, 0.465341]
+  bottomLeft: [0.108094, 0.465834]
+-
+  beats: [80, 82]
+  quarters: [80, 82]
+  seconds: [24, 24.6]
+  page: 3
+  topLeft: [0.217637, 0.0839812]
+  topRight: [0.294501, 0.0836827]
+  bottomRight: [0.29731, 0.465008]
+  bottomLeft: [0.220878, 0.465341]
+-
+  beats: [82, 84]
+  quarters: [82, 84]
+  seconds: [24.6, 25.2]
+  page: 3
+  topLeft: [0.294501, 0.0836827]
+  topRight: [0.367386, 0.0833996]
+  bottomRight: [0.369786, 0.464691]
+  bottomLeft: [0.29731, 0.465008]
+-
+  beats: [84, 86]
+  quarters: [84, 86]
+  seconds: [25.2, 25.8]
+  page: 3
+  topLeft: [0.367386, 0.0833996]
+  topRight: [0.447949, 0.0830868]
+  bottomRight: [0.449896, 0.464342]
+  bottomLeft: [0.369786, 0.464691]
+-
+  beats: [86, 88]
+  quarters: [86, 88]
+  seconds: [25.8, 26.4]
+  page: 3
+  topLeft: [0.447949, 0.0830868]
+  topRight: [0.521034, 0.0828029]
+  bottomRight: [0.52257, 0.464025]
+  bottomLeft: [0.449896, 0.464342]
+-
+  beats: [88, 90]
+  quarters: [88, 90]
+  seconds: [26.4, 27]
+  page: 3
+  topLeft: [0.521034, 0.0828029]
+  topRight: [0.60912, 0.0824608]
+  bottomRight: [0.610161, 0.463642]
+  bottomLeft: [0.52257, 0.464025]
+-
+  beats: [90, 92]
+  quarters: [90, 92]
+  seconds: [27, 27.6]
+  page: 3
+  topLeft: [0.60912, 0.0824608]
+  topRight: [0.685462, 0.0821643]
+  bottomRight: [0.686074, 0.463311]
+  bottomLeft: [0.610161, 0.463642]
+-
+  beats: [92, 94]
+  quarters: [92, 94]
+  seconds: [27.6, 28.2]
+  page: 3
+  topLeft: [0.685462, 0.0821643]
+  topRight: [0.770805, 0.0818329]
+  bottomRight: [0.770939, 0.46294]
+  bottomLeft: [0.686074, 0.463311]
+-
+  beats: [94, 96]
+  quarters: [94, 96]
+  seconds: [28.2, 28.8]
+  page: 3
+  topLeft: [0.770805, 0.0818329]
+  topRight: [0.846038, 0.0815407]
+  bottomRight: [0.845749, 0.462614]
+  bottomLeft: [0.770939, 0.46294]
+-
+  beats: [96, 98]
+  quarters: [96, 98]
+  seconds: [28.8, 29.4]
+  page: 3
+  topLeft: [0.846038, 0.0815407]
+  topRight: [0.932764, 0.0812039]
+  bottomRight: [0.931989, 0.462237]
+  bottomLeft: [0.845749, 0.462614]
+-
+  beats: [98, 100]
+  quarters: [98, 100]
+  seconds: [29.4, 30]
+  page: 3
+  topLeft: [0.107419, 0.517814]
+  topRight: [0.227701, 0.517356]
+  bottomRight: [0.229802, 0.911174]
+  bottomLeft: [0.109746, 0.911908]
+-
+  beats: [100, 102]
+  quarters: [100, 102]
+  seconds: [30, 30.6]
+  page: 3
+  topLeft: [0.227701, 0.517356]
+  topRight: [0.310885, 0.517039]
+  bottomRight: [0.312829, 0.910667]
+  bottomLeft: [0.229802, 0.911174]
+-
+  beats: [102, 104]
+  quarters: [102, 104]
+  seconds: [30.6, 31.2]
+  page: 3
+  topLeft: [0.310885, 0.517039]
+  topRight: [0.388457, 0.516744]
+  bottomRight: [0.390254, 0.910194]
+  bottomLeft: [0.312829, 0.910667]
+-
+  beats: [104, 106]
+  quarters: [104, 106]
+  seconds: [31.2, 31.8]
+  page: 3
+  topLeft: [0.388457, 0.516744]
+  topRight: [0.469827, 0.516434]
+  bottomRight: [0.471471, 0.909697]
+  bottomLeft: [0.390254, 0.910194]
+-
+  beats: [106, 108]
+  quarters: [106, 108]
+  seconds: [31.8, 32.4]
+  page: 3
+  topLeft: [0.469827, 0.516434]
+  topRight: [0.546167, 0.516143]
+  bottomRight: [0.547668, 0.909231]
+  bottomLeft: [0.471471, 0.909697]
+-
+  beats: [108, 110]
+  quarters: [108, 110]
+  seconds: [32.4, 33]
+  page: 3
+  topLeft: [0.546167, 0.516143]
+  topRight: [0.626782, 0.515836]
+  bottomRight: [0.628132, 0.908739]
+  bottomLeft: [0.547668, 0.909231]
+-
+  beats: [110, 112]
+  quarters: [110, 112]
+  seconds: [33, 33.6]
+  page: 3
+  topLeft: [0.626782, 0.515836]
+  topRight: [0.694221, 0.515579]
+  bottomRight: [0.695445, 0.908328]
+  bottomLeft: [0.628132, 0.908739]
+-
+  beats: [112, 114]
+  quarters: [112, 114]
+  seconds: [33.6, 34.2]
+  page: 3
+  topLeft: [0.694221, 0.515579]
+  topRight: [0.77257, 0.515281]
+  bottomRight: [0.773647, 0.90785]
+  bottomLeft: [0.695445, 0.908328]
+-
+  beats: [114, 116]
+  quarters: [114, 116]
+  seconds: [34.2, 34.8]
+  page: 3
+  topLeft: [0.77257, 0.515281]
+  topRight: [0.843595, 0.51501]
+  bottomRight: [0.844538, 0.907417]
+  bottomLeft: [0.773647, 0.90785]
+-
+  beats: [116, 118]
+  quarters: [116, 118]
+  seconds: [34.8, 35.4]
+  page: 3
+  topLeft: [0.843595, 0.51501]
+  topRight: [0.933023, 0.51467]
+  bottomRight: [0.933799, 0.906871]
+  bottomLeft: [0.844538, 0.907417]
+-
+  beats: [118, 120]
+  quarters: [118, 120]
+  seconds: [35.4, 36]
+  page: 4
+  topLeft: [0.114559, 0.081327]
+  topRight: [0.231446, 0.0819703]
+  bottomRight: [0.228013, 0.46659]
+  bottomLeft: [0.111456, 0.466161]
+-
+  beats: [120, 122]
+  quarters: [120, 122]
+  seconds: [36, 36.6]
+  page: 4
+  topLeft: [0.231446, 0.0819703]
+  topRight: [0.31584, 0.0824347]
+  bottomRight: [0.312168, 0.4669]
+  bottomLeft: [0.228013, 0.46659]
+-
+  beats: [122, 124]
+  quarters: [122, 124]
+  seconds: [36.6, 37.2]
+  page: 4
+  topLeft: [0.31584, 0.0824347]
+  topRight: [0.389787, 0.0828417]
+  bottomRight: [0.385907, 0.467171]
+  bottomLeft: [0.312168, 0.4669]
+-
+  beats: [124, 126]
+  quarters: [124, 126]
+  seconds: [37.2, 37.8]
+  page: 4
+  topLeft: [0.389787, 0.0828417]
+  topRight: [0.485865, 0.0833704]
+  bottomRight: [0.481714, 0.467523]
+  bottomLeft: [0.385907, 0.467171]
+-
+  beats: [126, 128]
+  quarters: [126, 128]
+  seconds: [37.8, 38.4]
+  page: 4
+  topLeft: [0.485865, 0.0833704]
+  topRight: [0.559645, 0.0837764]
+  bottomRight: [0.555287, 0.467794]
+  bottomLeft: [0.481714, 0.467523]
+-
+  beats: [128, 130]
+  quarters: [128, 130]
+  seconds: [38.4, 39]
+  page: 4
+  topLeft: [0.559645, 0.0837764]
+  topRight: [0.640042, 0.0842189]
+  bottomRight: [0.635458, 0.468089]
+  bottomLeft: [0.555287, 0.467794]
+-
+  beats: [130, 132]
+  quarters: [130, 132]
+  seconds: [39, 39.6]
+  page: 4
+  topLeft: [0.640042, 0.0842189]
+  topRight: [0.714343, 0.0846278]
+  bottomRight: [0.709549, 0.468362]
+  bottomLeft: [0.635458, 0.468089]
+-
+  beats: [132, 134]
+  quarters: [132, 134]
+  seconds: [39.6, 40.2]
+  page: 4
+  topLeft: [0.714343, 0.0846278]
+  topRight: [0.793747, 0.0850648]
+  bottomRight: [0.78873, 0.468653]
+  bottomLeft: [0.709549, 0.468362]
+-
+  beats: [134, 136]
+  quarters: [134, 136]
+  seconds: [40.2, 40.8]
+  page: 4
+  topLeft: [0.793747, 0.0850648]
+  topRight: [0.87043, 0.0854868]
+  bottomRight: [0.865199, 0.468934]
+  bottomLeft: [0.78873, 0.468653]
+-
+  beats: [136, 138]
+  quarters: [136, 138]
+  seconds: [40.8, 41.4]
+  page: 4
+  topLeft: [0.87043, 0.0854868]
+  topRight: [0.941298, 0.0858768]
+  bottomRight: [0.935868, 0.469194]
+  bottomLeft: [0.865199, 0.468934]
+-
+  beats: [138, 140]
+  quarters: [138, 140]
+  seconds: [41.4, 42]
+  page: 4
+  topLeft: [0.110939, 0.522844]
+  topRight: [0.239049, 0.523374]
+  bottomRight: [0.235067, 0.904956]
+  bottomLeft: [0.107318, 0.904455]
+-
+  beats: [140, 142]
+  quarters: [140, 142]
+  seconds: [42, 42.6]
+  page: 4
+  topLeft: [0.239049, 0.523374]
+  topRight: [0.315781, 0.523692]
+  bottomRight: [0.311581, 0.905256]
+  bottomLeft: [0.235067, 0.904956]
+-
+  beats: [142, 144]
+  quarters: [142, 144]
+  seconds: [42.6, 43.2]
+  page: 4
+  topLeft: [0.315781, 0.523692]
+  topRight: [0.39812, 0.524033]
+  bottomRight: [0.393689, 0.905578]
+  bottomLeft: [0.311581, 0.905256]
+-
+  beats: [144, 146]
+  quarters: [144, 146]
+  seconds: [43.2, 43.8]
+  page: 4
+  topLeft: [0.39812, 0.524033]
+  topRight: [0.47014, 0.524331]
+  bottomRight: [0.465504, 0.90586]
+  bottomLeft: [0.393689, 0.905578]
+-
+  beats: [146, 148]
+  quarters: [146, 148]
+  seconds: [43.8, 44.4]
+  page: 4
+  topLeft: [0.47014, 0.524331]
+  topRight: [0.563666, 0.524719]
+  bottomRight: [0.558766, 0.906226]
+  bottomLeft: [0.465504, 0.90586]
+-
+  beats: [148, 150]
+  quarters: [148, 150]
+  seconds: [44.4, 45]
+  page: 4
+  topLeft: [0.563666, 0.524719]
+  topRight: [0.636798, 0.525022]
+  bottomRight: [0.631692, 0.906512]
+  bottomLeft: [0.558766, 0.906226]
+-
+  beats: [150, 152]
+  quarters: [150, 152]
+  seconds: [45, 45.6]
+  page: 4
+  topLeft: [0.636798, 0.525022]
+  topRight: [0.728275, 0.5254]
+  bottomRight: [0.722911, 0.90687]
+  bottomLeft: [0.631692, 0.906512]
+-
+  beats: [152, 154]
+  quarters: [152, 154]
+  seconds: [45.6, 46.2]
+  page: 4
+  topLeft: [0.728275, 0.5254]
+  topRight: [0.795477, 0.525679]
+  bottomRight: [0.789923, 0.907133]
+  bottomLeft: [0.722911, 0.90687]
+-
+  beats: [154, 156]
+  quarters: [154, 156]
+  seconds: [46.2, 46.8]
+  page: 4
+  topLeft: [0.795477, 0.525679]
+  topRight: [0.86374, 0.525961]
+  bottomRight: [0.857993, 0.9074]
+  bottomLeft: [0.789923, 0.907133]
+-
+  beats: [156, 158]
+  quarters: [156, 158]
+  seconds: [46.8, 47.4]
+  page: 4
+  topLeft: [0.86374, 0.525961]
+  topRight: [0.934833, 0.526256]
+  bottomRight: [0.928885, 0.907678]
+  bottomLeft: [0.857993, 0.9074]
+-
+  beats: [158, 160]
+  quarters: [158, 160]
+  seconds: [47.4, 48]
+  page: 5
+  topLeft: [0.105767, 0.0811374]
+  topRight: [0.227472, 0.0815292]
+  bottomRight: [0.226772, 0.471096]
+  bottomLeft: [0.104991, 0.4709]
+-
+  beats: [160, 162]
+  quarters: [160, 162]
+  seconds: [48, 48.6]
+  page: 5
+  topLeft: [0.227472, 0.0815292]
+  topRight: [0.295451, 0.0817481]
+  bottomRight: [0.294795, 0.471206]
+  bottomLeft: [0.226772, 0.471096]
+-
+  beats: [162, 164]
+  quarters: [162, 164]
+  seconds: [48.6, 49.2]
+  page: 5
+  topLeft: [0.295451, 0.0817481]
+  topRight: [0.385686, 0.0820386]
+  bottomRight: [0.385086, 0.471351]
+  bottomLeft: [0.294795, 0.471206]
+-
+  beats: [164, 166]
+  quarters: [164, 166]
+  seconds: [49.2, 49.8]
+  page: 5
+  topLeft: [0.385686, 0.0820386]
+  topRight: [0.454247, 0.0822593]
+  bottomRight: [0.45369, 0.471461]
+  bottomLeft: [0.385086, 0.471351]
+-
+  beats: [166, 168]
+  quarters: [166, 168]
+  seconds: [49.8, 50.4]
+  page: 5
+  topLeft: [0.454247, 0.0822593]
+  topRight: [0.54718, 0.0825585]
+  bottomRight: [0.546682, 0.471611]
+  bottomLeft: [0.45369, 0.471461]
+-
+  beats: [168, 170]
+  quarters: [168, 170]
+  seconds: [50.4, 51]
+  page: 5
+  topLeft: [0.54718, 0.0825585]
+  topRight: [0.617558, 0.0827851]
+  bottomRight: [0.617104, 0.471724]
+  bottomLeft: [0.546682, 0.471611]
+-
+  beats: [170, 172]
+  quarters: [170, 172]
+  seconds: [51, 51.6]
+  page: 5
+  topLeft: [0.617558, 0.0827851]
+  topRight: [0.699658, 0.0830494]
+  bottomRight: [0.699255, 0.471856]
+  bottomLeft: [0.617104, 0.471724]
+-
+  beats: [172, 174]
+  quarters: [172, 174]
+  seconds: [51.6, 52.2]
+  page: 5
+  topLeft: [0.699658, 0.0830494]
+  topRight: [0.772887, 0.0832851]
+  bottomRight: [0.77253, 0.471974]
+  bottomLeft: [0.699255, 0.471856]
+-
+  beats: [174, 176]
+  quarters: [174, 176]
+  seconds: [52.2, 52.8]
+  page: 5
+  topLeft: [0.772887, 0.0832851]
+  topRight: [0.854325, 0.0835473]
+  bottomRight: [0.854019, 0.472105]
+  bottomLeft: [0.77253, 0.471974]
+-
+  beats: [176, 178]
+  quarters: [176, 178]
+  seconds: [52.8, 53.4]
+  page: 5
+  topLeft: [0.854325, 0.0835473]
+  topRight: [0.930178, 0.0837915]
+  bottomRight: [0.92992, 0.472227]
+  bottomLeft: [0.854019, 0.472105]
+-
+  beats: [178, 180]
+  quarters: [178, 180]
+  seconds: [53.4, 54]
+  page: 5
+  topLeft: [0.104474, 0.523223]
+  topRight: [0.235119, 0.523553]
+  bottomRight: [0.23399, 0.908237]
+  bottomLeft: [0.103181, 0.908057]
+-
+  beats: [180, 182]
+  quarters: [180, 182]
+  seconds: [54, 54.6]
+  page: 5
+  topLeft: [0.235119, 0.523553]
+  topRight: [0.310075, 0.523742]
+  bottomRight: [0.30904, 0.90834]
+  bottomLeft: [0.23399, 0.908237]
+-
+  beats: [182, 184]
+  quarters: [182, 184]
+  seconds: [54.6, 55.2]
+  page: 5
+  topLeft: [0.310075, 0.523742]
+  topRight: [0.392157, 0.52395]
+  bottomRight: [0.391225, 0.908453]
+  bottomLeft: [0.30904, 0.90834]
+-
+  beats: [184, 186]
+  quarters: [184, 186]
+  seconds: [55.2, 55.8]
+  page: 5
+  topLeft: [0.392157, 0.52395]
+  topRight: [0.452589, 0.524102]
+  bottomRight: [0.451733, 0.908537]
+  bottomLeft: [0.391225, 0.908453]
+-
+  beats: [186, 188]
+  quarters: [186, 188]
+  seconds: [55.8, 56.4]
+  page: 5
+  topLeft: [0.452589, 0.524102]
+  topRight: [0.49589, 0.524212]
+  bottomRight: [0.495088, 0.908596]
+  bottomLeft: [0.451733, 0.908537]
+-
+  beats: [188, 190]
+  quarters: [188, 190]
+  seconds: [56.4, 57]
+  page: 5
+  topLeft: [0.49589, 0.524212]
+  topRight: [0.540082, 0.524324]
+  bottomRight: [0.539336, 0.908657]
+  bottomLeft: [0.495088, 0.908596]
+-
+  beats: [190, 192]
+  quarters: [190, 192]
+  seconds: [57, 57.6]
+  page: 5
+  topLeft: [0.540082, 0.524324]
+  topRight: [0.600518, 0.524476]
+  bottomRight: [0.599847, 0.908741]
+  bottomLeft: [0.539336, 0.908657]
+-
+  beats: [192, 194]
+  quarters: [192, 194]
+  seconds: [57.6, 58.2]
+  page: 5
+  topLeft: [0.600518, 0.524476]
+  topRight: [0.68259, 0.524684]
+  bottomRight: [0.682022, 0.908854]
+  bottomLeft: [0.599847, 0.908741]
+-
+  beats: [194, 196]
+  quarters: [194, 196]
+  seconds: [58.2, 58.8]
+  page: 5
+  topLeft: [0.68259, 0.524684]
+  topRight: [0.761074, 0.524882]
+  bottomRight: [0.760604, 0.908962]
+  bottomLeft: [0.682022, 0.908854]
+-
+  beats: [196, 198]
+  quarters: [196, 198]
+  seconds: [58.8, 59.4]
+  page: 5
+  topLeft: [0.761074, 0.524882]
+  topRight: [0.849458, 0.525105]
+  bottomRight: [0.849099, 0.909084]
+  bottomLeft: [0.760604, 0.908962]
+-
+  beats: [198, 200]
+  quarters: [198, 200]
+  seconds: [59.4, 60]
+  page: 5
+  topLeft: [0.849458, 0.525105]
+  topRight: [0.929661, 0.525308]
+  bottomRight: [0.929403, 0.909194]
+  bottomLeft: [0.849099, 0.909084]
+-
+  beats: [200, 202]
+  quarters: [200, 202]
+  seconds: [60, 60.6]
+  page: 6
+  topLeft: [0.116685, 0.0860626]
+  topRight: [0.254841, 0.0861896]
+  bottomRight: [0.253845, 0.47248]
+  bottomLeft: [0.116111, 0.472417]
+-
+  beats: [202, 204]
+  quarters: [202, 204]
+  seconds: [60.6, 61.2]
+  page: 6
+  topLeft: [0.254841, 0.0861896]
+  topRight: [0.328498, 0.0862574]
+  bottomRight: [0.327277, 0.472514]
+  bottomLeft: [0.253845, 0.47248]
+-
+  beats: [204, 206]
+  quarters: [204, 206]
+  seconds: [61.2, 61.8]
+  page: 6
+  topLeft: [0.328498, 0.0862574]
+  topRight: [0.421074, 0.0863426]
+  bottomRight: [0.41957, 0.472556]
+  bottomLeft: [0.327277, 0.472514]
+-
+  beats: [206, 208]
+  quarters: [206, 208]
+  seconds: [61.8, 62.4]
+  page: 6
+  topLeft: [0.421074, 0.0863426]
+  topRight: [0.490913, 0.0864068]
+  bottomRight: [0.489196, 0.472588]
+  bottomLeft: [0.41957, 0.472556]
+-
+  beats: [208, 210]
+  quarters: [208, 210]
+  seconds: [62.4, 63]
+  page: 6
+  topLeft: [0.490913, 0.0864068]
+  topRight: [0.573828, 0.0864831]
+  bottomRight: [0.571858, 0.472626]
+  bottomLeft: [0.489196, 0.472588]
+-
+  beats: [210, 212]
+  quarters: [210, 212]
+  seconds: [63, 63.6]
+  page: 6
+  topLeft: [0.573828, 0.0864831]
+  topRight: [0.657317, 0.0865599]
+  bottomRight: [0.655092, 0.472664]
+  bottomLeft: [0.571858, 0.472626]
+-
+  beats: [212, 214]
+  quarters: [212, 214]
+  seconds: [63.6, 64.2]
+  page: 6
+  topLeft: [0.657317, 0.0865599]
+  topRight: [0.734136, 0.0866305]
+  bottomRight: [0.731676, 0.4727]
+  bottomLeft: [0.655092, 0.472664]
+-
+  beats: [214, 216]
+  quarters: [214, 216]
+  seconds: [64.2, 64.8]
+  page: 6
+  topLeft: [0.734136, 0.0866305]
+  topRight: [0.802826, 0.0866937]
+  bottomRight: [0.800157, 0.472731]
+  bottomLeft: [0.731676, 0.4727]
+-
+  beats: [216, 218]
+  quarters: [216, 218]
+  seconds: [64.8, 65.4]
+  page: 6
+  topLeft: [0.802826, 0.0866937]
+  topRight: [0.87589, 0.0867609]
+  bottomRight: [0.872998, 0.472765]
+  bottomLeft: [0.800157, 0.472731]
+-
+  beats: [218, 220]
+  quarters: [218, 220]
+  seconds: [65.4, 66]
+  page: 6
+  topLeft: [0.87589, 0.0867609]
+  topRight: [0.945177, 0.0868246]
+  bottomRight: [0.942074, 0.472796]
+  bottomLeft: [0.872998, 0.472765]
+-
+  beats: [220, 222]
+  quarters: [220, 222]
+  seconds: [66, 66.6]
+  page: 6
+  topLeft: [0.115076, 0.527962]
+  topRight: [0.238117, 0.52816]
+  bottomRight: [0.236877, 0.906133]
+  bottomLeft: [0.1143, 0.906161]
+-
+  beats: [222, 224]
+  quarters: [222, 224]
+  seconds: [66.6, 67.2]
+  page: 6
+  topLeft: [0.238117, 0.52816]
+  topRight: [0.310625, 0.528276]
+  bottomRight: [0.309112, 0.906116]
+  bottomLeft: [0.236877, 0.906133]
+-
+  beats: [224, 226]
+  quarters: [224, 226]
+  seconds: [67.2, 67.8]
+  page: 6
+  topLeft: [0.310625, 0.528276]
+  topRight: [0.388649, 0.528402]
+  bottomRight: [0.386841, 0.906098]
+  bottomLeft: [0.309112, 0.906116]
+-
+  beats: [226, 228]
+  quarters: [226, 228]
+  seconds: [67.8, 68.4]
+  page: 6
+  topLeft: [0.388649, 0.528402]
+  topRight: [0.457307, 0.528512]
+  bottomRight: [0.455241, 0.906083]
+  bottomLeft: [0.386841, 0.906098]
+-
+  beats: [228, 230]
+  quarters: [228, 230]
+  seconds: [68.4, 69]
+  page: 6
+  topLeft: [0.457307, 0.528512]
+  topRight: [0.538617, 0.528643]
+  bottomRight: [0.536246, 0.906064]
+  bottomLeft: [0.455241, 0.906083]
+-
+  beats: [230, 232]
+  quarters: [230, 232]
+  seconds: [69, 69.6]
+  page: 6
+  topLeft: [0.538617, 0.528643]
+  topRight: [0.595157, 0.528734]
+  bottomRight: [0.592574, 0.906051]
+  bottomLeft: [0.536246, 0.906064]
+-
+  beats: [232, 234]
+  quarters: [232, 234]
+  seconds: [69.6, 70.2]
+  page: 6
+  topLeft: [0.595157, 0.528734]
+  topRight: [0.644627, 0.528813]
+  bottomRight: [0.641857, 0.90604]
+  bottomLeft: [0.592574, 0.906051]
+-
+  beats: [234, 236]
+  quarters: [234, 236]
+  seconds: [70.2, 70.8]
+  page: 6
+  topLeft: [0.644627, 0.528813]
+  topRight: [0.707411, 0.528914]
+  bottomRight: [0.704406, 0.906025]
+  bottomLeft: [0.641857, 0.90604]
+-
+  beats: [236, 238]
+  quarters: [236, 238]
+  seconds: [70.8, 71.4]
+  page: 6
+  topLeft: [0.707411, 0.528914]
+  topRight: [0.782578, 0.529035]
+  bottomRight: [0.77929, 0.906008]
+  bottomLeft: [0.704406, 0.906025]
+-
+  beats: [238, 240]
+  quarters: [238, 240]
+  seconds: [71.4, 72]
+  page: 6
+  topLeft: [0.782578, 0.529035]
+  topRight: [0.865859, 0.529169]
+  bottomRight: [0.86226, 0.905989]
+  bottomLeft: [0.77929, 0.906008]
+-
+  beats: [240, 242]
+  quarters: [240, 242]
+  seconds: [72, 72.6]
+  page: 6
+  topLeft: [0.865859, 0.529169]
+  topRight: [0.940522, 0.529289]
+  bottomRight: [0.936643, 0.905972]
+  bottomLeft: [0.86226, 0.905989]
+-
+  beats: [242, 244]
+  quarters: [242, 244]
+  seconds: [72.6, 73.2]
+  page: 7
+  topLeft: [0.103698, 0.0901003]
+  topRight: [0.234613, 0.0894726]
+  bottomRight: [0.238995, 0.480349]
+  bottomLeft: [0.108611, 0.480977]
+-
+  beats: [244, 246]
+  quarters: [244, 246]
+  seconds: [73.2, 73.8]
+  page: 7
+  topLeft: [0.234613, 0.0894726]
+  topRight: [0.315618, 0.0890843]
+  bottomRight: [0.319672, 0.479961]
+  bottomLeft: [0.238995, 0.480349]
+-
+  beats: [246, 248]
+  quarters: [246, 248]
+  seconds: [73.8, 74.4]
+  page: 7
+  topLeft: [0.315618, 0.0890843]
+  topRight: [0.419687, 0.0885853]
+  bottomRight: [0.42332, 0.479462]
+  bottomLeft: [0.319672, 0.479961]
+-
+  beats: [248, 250]
+  quarters: [248, 250]
+  seconds: [74.4, 75]
+  page: 7
+  topLeft: [0.419687, 0.0885853]
+  topRight: [0.499305, 0.0882036]
+  bottomRight: [0.502614, 0.47908]
+  bottomLeft: [0.42332, 0.479462]
+-
+  beats: [250, 252]
+  quarters: [250, 252]
+  seconds: [75, 75.6]
+  page: 7
+  topLeft: [0.499305, 0.0882036]
+  topRight: [0.603252, 0.0877052]
+  bottomRight: [0.606139, 0.478582]
+  bottomLeft: [0.502614, 0.47908]
+-
+  beats: [252, 254]
+  quarters: [252, 254]
+  seconds: [75.6, 76.2]
+  page: 7
+  topLeft: [0.603252, 0.0877052]
+  topRight: [0.684654, 0.0873149]
+  bottomRight: [0.687212, 0.478191]
+  bottomLeft: [0.606139, 0.478582]
+-
+  beats: [254, 256]
+  quarters: [254, 256]
+  seconds: [76.2, 76.8]
+  page: 7
+  topLeft: [0.684654, 0.0873149]
+  topRight: [0.7679, 0.0869158]
+  bottomRight: [0.77012, 0.477792]
+  bottomLeft: [0.687212, 0.478191]
+-
+  beats: [256, 258]
+  quarters: [256, 258]
+  seconds: [76.8, 77.4]
+  page: 7
+  topLeft: [0.7679, 0.0869158]
+  topRight: [0.844918, 0.0865465]
+  bottomRight: [0.846826, 0.477423]
+  bottomLeft: [0.77012, 0.477792]
+-
+  beats: [258, 260]
+  quarters: [258, 260]
+  seconds: [77.4, 78]
+  page: 7
+  topLeft: [0.844918, 0.0865465]
+  topRight: [0.932764, 0.0861253]
+  bottomRight: [0.934316, 0.477002]
+  bottomLeft: [0.846826, 0.477423]
+-
+  beats: [260, 262]
+  quarters: [260, 262]
+  seconds: [78, 78.6]
+  page: 7
+  topLeft: [0.108094, 0.53303]
+  topRight: [0.231108, 0.532382]
+  bottomRight: [0.235444, 0.907331]
+  bottomLeft: [0.113007, 0.908007]
+-
+  beats: [262, 264]
+  quarters: [262, 264]
+  seconds: [78.6, 79.2]
+  page: 7
+  topLeft: [0.231108, 0.532382]
+  topRight: [0.31748, 0.531928]
+  bottomRight: [0.32141, 0.906856]
+  bottomLeft: [0.235444, 0.907331]
+-
+  beats: [264, 266]
+  quarters: [264, 266]
+  seconds: [79.2, 79.8]
+  page: 7
+  topLeft: [0.31748, 0.531928]
+  topRight: [0.399785, 0.531494]
+  bottomRight: [0.403329, 0.906403]
+  bottomLeft: [0.32141, 0.906856]
+-
+  beats: [266, 268]
+  quarters: [266, 268]
+  seconds: [79.8, 80.4]
+  page: 7
+  topLeft: [0.399785, 0.531494]
+  topRight: [0.490221, 0.531018]
+  bottomRight: [0.49334, 0.905906]
+  bottomLeft: [0.403329, 0.906403]
+-
+  beats: [268, 270]
+  quarters: [268, 270]
+  seconds: [80.4, 81]
+  page: 7
+  topLeft: [0.490221, 0.531018]
+  topRight: [0.574232, 0.530575]
+  bottomRight: [0.576957, 0.905445]
+  bottomLeft: [0.49334, 0.905906]
+-
+  beats: [270, 272]
+  quarters: [270, 272]
+  seconds: [81, 81.6]
+  page: 7
+  topLeft: [0.574232, 0.530575]
+  topRight: [0.671215, 0.530064]
+  bottomRight: [0.673485, 0.904912]
+  bottomLeft: [0.576957, 0.905445]
+-
+  beats: [272, 274]
+  quarters: [272, 274]
+  seconds: [81.6, 82.2]
+  page: 7
+  topLeft: [0.671215, 0.530064]
+  topRight: [0.755169, 0.529622]
+  bottomRight: [0.757045, 0.90445]
+  bottomLeft: [0.673485, 0.904912]
+-
+  beats: [274, 276]
+  quarters: [274, 276]
+  seconds: [82.2, 82.8]
+  page: 7
+  topLeft: [0.755169, 0.529622]
+  topRight: [0.849272, 0.529126]
+  bottomRight: [0.850707, 0.903933]
+  bottomLeft: [0.757045, 0.90445]
+-
+  beats: [276, 278]
+  quarters: [276, 278]
+  seconds: [82.8, 83.4]
+  page: 7
+  topLeft: [0.849272, 0.529126]
+  topRight: [0.934575, 0.528677]
+  bottomRight: [0.935609, 0.903464]
+  bottomLeft: [0.850707, 0.903933]
+-
+  beats: [278, 280]
+  quarters: [278, 280]
+  seconds: [83.4, 84]
+  page: 8
+  topLeft: [0.116369, 0.0793054]
+  topRight: [0.232114, 0.0797734]
+  bottomRight: [0.230639, 0.482919]
+  bottomLeft: [0.115076, 0.482654]
+-
+  beats: [280, 282]
+  quarters: [280, 282]
+  seconds: [84, 84.6]
+  page: 8
+  topLeft: [0.232114, 0.0797734]
+  topRight: [0.303258, 0.080061]
+  bottomRight: [0.301672, 0.483082]
+  bottomLeft: [0.230639, 0.482919]
+-
+  beats: [282, 284]
+  quarters: [282, 284]
+  seconds: [84.6, 85.2]
+  page: 8
+  topLeft: [0.303258, 0.080061]
+  topRight: [0.377466, 0.080361]
+  bottomRight: [0.375765, 0.483252]
+  bottomLeft: [0.301672, 0.483082]
+-
+  beats: [284, 286]
+  quarters: [284, 286]
+  seconds: [85.2, 85.8]
+  page: 8
+  topLeft: [0.377466, 0.080361]
+  topRight: [0.454622, 0.0806729]
+  bottomRight: [0.4528, 0.483428]
+  bottomLeft: [0.375765, 0.483252]
+-
+  beats: [286, 288]
+  quarters: [286, 288]
+  seconds: [85.8, 86.4]
+  page: 8
+  topLeft: [0.454622, 0.0806729]
+  topRight: [0.531108, 0.0809821]
+  bottomRight: [0.529166, 0.483603]
+  bottomLeft: [0.4528, 0.483428]
+-
+  beats: [288, 290]
+  quarters: [288, 290]
+  seconds: [86.4, 87]
+  page: 8
+  topLeft: [0.531108, 0.0809821]
+  topRight: [0.60962, 0.0812995]
+  bottomRight: [0.607556, 0.483783]
+  bottomLeft: [0.529166, 0.483603]
+-
+  beats: [290, 292]
+  quarters: [290, 292]
+  seconds: [87, 87.6]
+  page: 8
+  topLeft: [0.60962, 0.0812995]
+  topRight: [0.687376, 0.0816139]
+  bottomRight: [0.685191, 0.483961]
+  bottomLeft: [0.607556, 0.483783]
+-
+  beats: [292, 294]
+  quarters: [292, 294]
+  seconds: [87.6, 88.2]
+  page: 8
+  topLeft: [0.687376, 0.0816139]
+  topRight: [0.777377, 0.0819777]
+  bottomRight: [0.775052, 0.484167]
+  bottomLeft: [0.685191, 0.483961]
+-
+  beats: [294, 296]
+  quarters: [294, 296]
+  seconds: [88.2, 88.8]
+  page: 8
+  topLeft: [0.777377, 0.0819777]
+  topRight: [0.855025, 0.0822917]
+  bottomRight: [0.852579, 0.484345]
+  bottomLeft: [0.775052, 0.484167]
+-
+  beats: [296, 298]
+  quarters: [296, 298]
+  seconds: [88.8, 89.4]
+  page: 8
+  topLeft: [0.855025, 0.0822917]
+  topRight: [0.94466, 0.082654]
+  bottomRight: [0.942074, 0.48455]
+  bottomLeft: [0.852579, 0.484345]
+-
+  beats: [298, 300]
+  quarters: [298, 300]
+  seconds: [89.4, 90]
+  page: 8
+  topLeft: [0.113525, 0.531754]
+  topRight: [0.234425, 0.532308]
+  bottomRight: [0.232197, 0.904163]
+  bottomLeft: [0.111715, 0.903886]
+-
+  beats: [300, 302]
+  quarters: [300, 302]
+  seconds: [90, 90.6]
+  page: 8
+  topLeft: [0.234425, 0.532308]
+  topRight: [0.314278, 0.532674]
+  bottomRight: [0.311774, 0.904346]
+  bottomLeft: [0.232197, 0.904163]
+-
+  beats: [302, 304]
+  quarters: [302, 304]
+  seconds: [90.6, 91.2]
+  page: 8
+  topLeft: [0.314278, 0.532674]
+  topRight: [0.391993, 0.53303]
+  bottomRight: [0.389222, 0.904525]
+  bottomLeft: [0.311774, 0.904346]
+-
+  beats: [304, 306]
+  quarters: [304, 306]
+  seconds: [91.2, 91.8]
+  page: 8
+  topLeft: [0.391993, 0.53303]
+  topRight: [0.469561, 0.533386]
+  bottomRight: [0.466523, 0.904702]
+  bottomLeft: [0.389222, 0.904525]
+-
+  beats: [306, 308]
+  quarters: [306, 308]
+  seconds: [91.8, 92.4]
+  page: 8
+  topLeft: [0.469561, 0.533386]
+  topRight: [0.546808, 0.53374]
+  bottomRight: [0.543504, 0.904879]
+  bottomLeft: [0.466523, 0.904702]
+-
+  beats: [308, 310]
+  quarters: [308, 310]
+  seconds: [92.4, 93]
+  page: 8
+  topLeft: [0.546808, 0.53374]
+  topRight: [0.622226, 0.534086]
+  bottomRight: [0.618662, 0.905052]
+  bottomLeft: [0.543504, 0.904879]
+-
+  beats: [310, 312]
+  quarters: [310, 312]
+  seconds: [93, 93.6]
+  page: 8
+  topLeft: [0.622226, 0.534086]
+  topRight: [0.700923, 0.534447]
+  bottomRight: [0.69709, 0.905233]
+  bottomLeft: [0.618662, 0.905052]
+-
+  beats: [312, 314]
+  quarters: [312, 314]
+  seconds: [93.6, 94.2]
+  page: 8
+  topLeft: [0.700923, 0.534447]
+  topRight: [0.77477, 0.534785]
+  bottomRight: [0.770683, 0.905402]
+  bottomLeft: [0.69709, 0.905233]
+-
+  beats: [314, 316]
+  quarters: [314, 316]
+  seconds: [94.2, 94.8]
+  page: 8
+  topLeft: [0.77477, 0.534785]
+  topRight: [0.828724, 0.535032]
+  bottomRight: [0.824453, 0.905526]
+  bottomLeft: [0.770683, 0.905402]
+-
+  beats: [316, 318]
+  quarters: [316, 318]
+  seconds: [94.8, 95.4]
+  page: 8
+  topLeft: [0.828724, 0.535032]
+  topRight: [0.883821, 0.535285]
+  bottomRight: [0.879361, 0.905652]
+  bottomLeft: [0.824453, 0.905526]
+-
+  beats: [318, 318]
+  quarters: [318, 318]
+  seconds: [95.4, 95.4]
+  page: 8
+  topLeft: [0.883821, 0.535285]
+  topRight: [0.940522, 0.535545]
+  bottomRight: [0.935868, 0.905782]
+  bottomLeft: [0.879361, 0.905652]

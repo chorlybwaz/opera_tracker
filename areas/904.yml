@@ -1,0 +1,18 @@
+-
+  beats: [0, 4]
+  quarters: [0, 4]
+  seconds: [0, 4]
+  page: 1
+  topLeft: [0.183664, 0.0938507]
+  topRight: [0.684984, 0.0937959]
+  bottomRight: [0.685054, 0.185452]
+  bottomLeft: [0.183368, 0.185452]
+-
+  beats: [4, 4]
+  quarters: [4, 4]
+  seconds: [4, 4]
+  page: 1
+  topLeft: [0.684984, 0.0937959]
+  topRight: [0.942665, 0.0937678]
+  bottomRight: [0.942924, 0.185452]
+  bottomLeft: [0.685054, 0.185452]

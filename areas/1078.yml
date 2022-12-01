@@ -1,0 +1,99 @@
+-
+  beats: [0, 4]
+  quarters: [0, 4]
+  seconds: [0, 4]
+  page: 1
+  topLeft: [0.182244, 0.115935]
+  topRight: [0.440034, 0.116234]
+  bottomRight: [0.442043, 0.211621]
+  bottomLeft: [0.184299, 0.211491]
+-
+  beats: [4, 8]
+  quarters: [4, 8]
+  seconds: [4, 8]
+  page: 1
+  topLeft: [0.440034, 0.116234]
+  topRight: [0.781182, 0.116628]
+  bottomRight: [0.783131, 0.211793]
+  bottomLeft: [0.442043, 0.211621]
+-
+  beats: [8, 10]
+  quarters: [8, 10]
+  seconds: [8, 10]
+  page: 1
+  topLeft: [0.781182, 0.116628]
+  topRight: [0.931410, 0.116802]
+  bottomRight: [0.933333, 0.211869]
+  bottomLeft: [0.783131, 0.211793]
+-
+  beats: [10, 12]
+  quarters: [10, 12]
+  seconds: [10, 12]
+  page: 1
+  topLeft: [0.115437, 0.255621]
+  topRight: [0.303796, 0.255774]
+  bottomRight: [0.303228, 0.349505]
+  bottomLeft: [0.114543, 0.349461]
+-
+  beats: [12, 16]
+  quarters: [12, 16]
+  seconds: [12, 16]
+  page: 1
+  topLeft: [0.303796, 0.255774]
+  topRight: [0.495888, 0.25593]
+  bottomRight: [0.495651, 0.349549]
+  bottomLeft: [0.303228, 0.349505]
+-
+  beats: [16, 20]
+  quarters: [16, 20]
+  seconds: [16, 20]
+  page: 1
+  topLeft: [0.495888, 0.25593]
+  topRight: [0.694922, 0.256091]
+  bottomRight: [0.695028, 0.349595]
+  bottomLeft: [0.495651, 0.349549]
+-
+  beats: [20, 24]
+  quarters: [20, 24]
+  seconds: [20, 24]
+  page: 1
+  topLeft: [0.694922, 0.256091]
+  topRight: [0.933076, 0.256284]
+  bottomRight: [0.933591, 0.34965]
+  bottomLeft: [0.695028, 0.349595]
+-
+  beats: [24, 28]
+  quarters: [24, 28]
+  seconds: [24, 28]
+  page: 1
+  topLeft: [0.114543, 0.393876]
+  topRight: [0.393965, 0.393521]
+  bottomRight: [0.395202, 0.487805]
+  bottomLeft: [0.116088, 0.487998]
+-
+  beats: [28, 32]
+  quarters: [28, 32]
+  seconds: [28, 32]
+  page: 1
+  topLeft: [0.393965, 0.393521]
+  topRight: [0.641167, 0.393206]
+  bottomRight: [0.642131, 0.487634]
+  bottomLeft: [0.395202, 0.487805]
+-
+  beats: [32, 36]
+  quarters: [32, 36]
+  seconds: [32, 36]
+  page: 1
+  topLeft: [0.641167, 0.393206]
+  topRight: [0.858544, 0.39293]
+  bottomRight: [0.859268, 0.487483]
+  bottomLeft: [0.642131, 0.487634]
+-
+  beats: [36, 38]
+  quarters: [36, 38]
+  seconds: [36, 38]
+  page: 1
+  topLeft: [0.858544, 0.39293]
+  topRight: [0.93295, 0.392835]
+  bottomRight: [0.933591, 0.487431]
+  bottomLeft: [0.859268, 0.487483]

@@ -1,0 +1,36 @@
+-
+  beats: [0, 4]
+  quarters: [0, 4]
+  seconds: [0, 4]
+  page: 1
+  topLeft: [0.161515, 0.150397]
+  topRight: [0.572528, 0.149992]
+  bottomRight: [0.57313, 0.257864]
+  bottomLeft: [0.162803, 0.257662]
+-
+  beats: [4, 8]
+  quarters: [4, 8]
+  seconds: [4, 8]
+  page: 1
+  topLeft: [0.572528, 0.149992]
+  topRight: [0.928645, 0.149641]
+  bottomRight: [0.928645, 0.25804]
+  bottomLeft: [0.57313, 0.257864]
+-
+  beats: [8, 12]
+  quarters: [8, 12]
+  seconds: [8, 12]
+  page: 1
+  topLeft: [0.11154, 0.318388]
+  topRight: [0.519209, 0.318671]
+  bottomRight: [0.519338, 0.425179]
+  bottomLeft: [0.111798, 0.425085]
+-
+  beats: [12, 12]
+  quarters: [12, 12]
+  seconds: [12, 12]
+  page: 1
+  topLeft: [0.519209, 0.318671]
+  topRight: [0.928903, 0.318956]
+  bottomRight: [0.928903, 0.425274]
+  bottomLeft: [0.519338, 0.425179]

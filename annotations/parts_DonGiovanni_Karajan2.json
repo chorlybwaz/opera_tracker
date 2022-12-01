@@ -1,0 +1,347 @@
+{
+	"Place": "Berliner Philharmoniker, Berlin, DEU",
+	"Date": "1985",
+	"Piece": "Don Giovanni",
+	"Author": "Wolfgang Amadeus Mozart",
+	"Place": "Berliner Philharmoniker, Berlin, DEU",
+	"Conductor": "Karajan, Herbert von",
+	"Audio": {
+		"Act1": {
+			"01_Ouvertura": {
+				"audio_file": "01_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Ouvertura_.wav",
+				"t_start": "0:00:02.116"
+			},
+			"02_NotteEGiornoFaticar": {
+				"audio_file": "02_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-1_N1-Introduzione.wav",
+				"t_start": "0:00:00.000"
+			},
+			"03_LeporelloOveSei": {
+				"audio_file": "03_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-2_Recitativo.wav",
+				"t_start": "0:00:00.325"
+			},
+			"04_AhDelPadreInPeriglio": {
+				"audio_file": "04_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-3_Recitativo.wav",
+				"t_start": "0:00:01.621"
+			},
+			"05_MaQualMaiSOffreOhDei": {
+				"audio_file": "05_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-3_N2-Recitativo.wav",
+				"t_start": "0:00:00.189"
+			},
+			"06_FuggiCrudeleFuggi": {
+				"audio_file": "05_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-3_N2-Recitativo.wav",
+				"t_start": "0:03:13.833"
+			},
+			"07_OrsuSpicciatiPresto": {
+				"audio_file": "06_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-4_Recitativo.wav",
+				"t_start": "0:00:01.194"
+			},
+			"08_AhChiMiDiceMai": {
+				"audio_file": "07_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-5_N3-Aria.wav",
+				"t_start": "0:00:00.204"
+			},
+			"09_ChiELaStelleCheVedo": {
+				"audio_file": "08_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-5_Recitativo.wav",
+				"t_start": "0:00:00.181"
+			},
+			"10_MadaminaIlCatalogoEQuesto": {
+				"audio_file": "09_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-5_N4-Aria.wav",
+				"t_start": "0:00:00.226"
+			},
+			"11_InQuestaFormaDunque": {
+				"audio_file": "10_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-6_Recitativo.wav",
+				"t_start": "0:00:00.162"
+			},
+			"12_GiovinetteCheFateAllAmore": {
+				"audio_file": "11_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-7_N5-Coro.wav",
+				"t_start": "0:00:00.186"
+			},
+			"13_MancoMaleEPartita": {
+				"audio_file": "12_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-8_Recitativo.wav",
+				"t_start": "0:00:01.294"
+			},
+			"14_HoCapitoSignorSi": {
+				"audio_file": "13_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-8_N6-Aria.wav",
+				"t_start": "0:00:00.199"
+			},
+			"15_AlfinSiamLiberati": {
+				"audio_file": "14_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-9_Recitativo.wav",
+				"t_start": "0:00:02.786"
+			},
+			"16_LaCiDaremLaMano": {
+				"audio_file": "15_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-9_N7-Duetto.wav",
+				"t_start": "0:00:00.576"
+			},
+			"17_FermatiScellerato": {
+				"audio_file": "16_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-10_Recitativo.wav",
+				"t_start": "0:00:00.434"
+			},
+			"18_AhFuggiIlTraditor": {
+				"audio_file": "17_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-10_N8-Aria.wav",
+				"t_start": "0:00:00.197"
+			},
+			"19_MiParChOggiIlDemonioSiDiverta": {
+				"audio_file": "18_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-11_Recitativo.wav",
+				"t_start": "0:00:01.539"
+			},
+			"20_AhTiRitrovoAncor": {
+				"audio_file": "19_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-12_.wav",
+				"t_start": "0:00:00.204"
+			},
+			"21_NonTiFidarOMisera": {
+				"audio_file": "20_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-12_N9-Quartetto.wav",
+				"t_start": "0:00:00.477"
+			},
+			"22_PoveraSventurata": {
+				"audio_file": "21_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-12_Recitativo.wav",
+				"t_start": "0:00:00.196"
+			},
+			"23_DonOttavioSonMorta": {
+				"audio_file": "22_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-13_N10-Recitativo.wav",
+				"t_start": "0:00:00.188"
+			},
+			"24_OrSaiChiLOnore": {
+				"audio_file": "22_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-13_N10-Recitativo.wav",
+				"t_start": "0:03:40.982"
+			},
+			"25_ComeMaiCrederDeggio": {
+				"audio_file": "23_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-14_Recitativo.wav",
+				"t_start": "0:00:02.397"
+			},
+			"26_DallaSuaPace": {
+				"audio_file": "24_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-14_N10a-Aria.wav",
+				"t_start": "0:00:00.000"
+			},
+			"27_IoDeggioAdOgniPatto": {
+				"audio_file": "25_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-15_Recitativo.wav",
+				"t_start": "0:00:02.891"
+			},
+			"28_FinChHanDalVino": {
+				"audio_file": "26_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-15_N11-Aria.wav",
+				"t_start": "0:00:00.239"
+			},
+			"29_MasettoSentiUnPo": {
+				"audio_file": "27_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scenes-16-and-17_Recitativo-1.wav",
+				"t_start": "0:00:01.008"
+			},
+			"30_BattiBattiOBelMasetto": {
+				"audio_file": "28_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scenes-16-and-17_N12-Aria.wav",
+				"t_start": "0:00:00.220"
+			},
+			"31_PacePaceOVitaMia": {
+				"audio_file": "28_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scenes-16-and-17_N12-Aria.wav",
+				"t_start": "0:02:38.479"
+			},
+			"32_GuardaUnPoComeSeppe": {
+				"audio_file": "29_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scenes-16-and-17_Recitativo-2.wav",
+				"t_start": "0:00:02.607"
+			},
+			"33_PrestoPrestoPriaChEiVenga": {
+				"audio_file": "30_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scenes-16-and-17_N13-Finale-+-Scena-17.wav",
+				"t_start": "0:00:00.230"
+			},
+			"34_TraQuestArboriCelata": {
+				"audio_file": "31_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scenes-18-and-19_.wav",
+				"t_start": "0:00:00.000"
+			},
+			"35_AdessoFateCoreFateCore": {
+				"audio_file": "31_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scenes-18-and-19_.wav",
+				"t_start": "0:01:51.754"
+			},
+			"36_SignorGuardateUnPoco": {
+				"audio_file": "31_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scenes-18-and-19_.wav",
+				"t_start": "0:03:48.084"
+			},
+			"37_ProteggaIlGiustoCielo": {
+				"audio_file": "31_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scenes-18-and-19_.wav",
+				"t_start": "0:05:08.738"
+			},
+			"38_RiposateVezzoseRagazze": {
+				"audio_file": "32_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-20_Allegro.wav",
+				"t_start": "0:00:00.268"
+			},
+			"39_VenitePureAvanti": {
+				"audio_file": "32_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-20_Allegro.wav",
+				"t_start": "0:01:16.142"
+			},
+			"40_DaBraviViaBallate": {
+				"audio_file": "32_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-20_Allegro.wav",
+				"t_start": "0:02:47.674"
+			},
+			"41_Soccorriamo": {
+				"audio_file": "32_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-20_Allegro.wav",
+				"t_start": "0:05:12.033"
+			},
+			"42_EccoIlBirbo": {
+				"audio_file": "32_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-20_Allegro.wav",
+				"t_start": "0:05:48.018"
+			},
+			"43_TremaTremaOScellerato": {
+				"audio_file": "32_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-20_Allegro.wav",
+				"t_start": "0:07:14.262"
+			},
+			"44_SulTuoCapoInQuestoGiorno": {
+				"audio_file": "32_BA4550_K-527-Karajan-Don-Giovanni_Act-1_Scene-20_Allegro.wav",
+				"t_start": "0:08:50.363"
+			}
+		},
+		"Act2": {
+			"01_EhViaBuffone": {
+				"audio_file": "33_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-1_N14-Duetto.wav",
+				"t_start": "0:00:00.228"
+			},
+			"02_LeporelloSignoreVienqui": {
+				"audio_file": "34_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-1_Recitativo.wav",
+				"t_start": "0:00:01.089"
+			},
+			"03_AhTaciIngiustoCore": {
+				"audio_file": "35_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-2_N15-Terzetto.wav",
+				"t_start": "0:00:00.171"
+			},
+			"04_AmicoCheTiPar": {
+				"audio_file": "36_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-2_Recitativo.wav",
+				"t_start": "0:00:01.202"
+			},
+			"05_EccomiAVoi": {
+				"audio_file": "37_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-3_Recitativo-1.wav",
+				"t_start": "0:00:00.821"
+			},
+			"06_DehVieniAllaFinestra": {
+				"audio_file": "38_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-3_N16-Canzonetta.wav",
+				"t_start": "0:00:00.210"
+			},
+			"07_VEGenteAllaFinestra": {
+				"audio_file": "39_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-3_Recitativo-2.wav",
+				"t_start": "0:00:00.320"
+			},
+			"08_NonCiStanchiamo": {
+				"audio_file": "40_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-4_.wav",
+				"t_start": "0:00:00.247"
+			},
+			"09_MetaDiVoiQuaVadano": {
+				"audio_file": "41_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-4_N17-Aria.wav",
+				"t_start": "0:00:00.187"
+			},
+			"10_ZittoLasciaChIoSenta": {
+				"audio_file": "42_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-5_Recitativo.wav",
+				"t_start": "0:00:00.199"
+			},
+			"11_AhiAhiLaTestaMia": {
+				"audio_file": "43_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-6_Recitativo.wav",
+				"t_start": "0:00:00.321"
+			},
+			"12_VedraiCarino": {
+				"audio_file": "44_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-6_N18-Aria.wav",
+				"t_start": "0:00:00.493"
+			},
+			"13_DiMolte_FaciIlLume": {
+				"audio_file": "45_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-7_Recitativo.wav",
+				"t_start": "0:00:00.192"
+			},
+			"14_SolaSolaInBuioLoco": {
+				"audio_file": "46_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-7_N19-Sestetto.wav",
+				"audio_file2": "47_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-8_.wav",
+				"t_start": "0:00:00.280"
+			},
+			"15_DunqueQuelloSeiTu": {
+				"audio_file": "48_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-9_Recitativo.wav",
+				"t_start": "0:00:03.139"
+			},
+			"16_AhPietaSignoriMiei": {
+				"audio_file": "49_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-9_N20-Aria.wav",
+				"t_start": "0:00:00.200"
+			},
+			"17_FermaPerfidoFerma": {
+				"audio_file": "50_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-10_Recitativo.wav",
+				"t_start": "0:00:00.411"
+			},
+			"18_IlMioTesoroIntanto": {
+				"audio_file": "51_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-10_N21-Aria.wav",
+				"t_start": "0:00:00.242"
+			},
+			"19_InqualiEccessiONumi": {
+				"audio_file": "52_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-10_N21-Recitativo.wav",
+				"t_start": "0:00:00.220"
+			},
+			"20_MiTradiQuellAlmaIngrata": {
+				"audio_file": "53_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-10_Aria.wav",
+				"t_start": "0:00:00.197"
+			},
+			"21_AhAhAhAhQuestaEBuona": {
+				"audio_file": "54_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-11_Recitativo.wav",
+				"t_start": "0:00:01.553"
+			},
+			"22_DiRiderFiniraiPriaDellAurora": {
+				"audio_file": "54_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-11_Recitativo.wav",
+				"t_start": "0:02:15.214"
+			},
+			"23_ChiHaParlato": {
+				"audio_file": "54_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-11_Recitativo.wav",
+				"t_start": "0:02:38.672"
+			},
+			"24_RibaldoAudace": {
+				"audio_file": "54_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-11_Recitativo.wav",
+				"t_start": "0:02:53.570"
+			},
+			"25_SaraQualcunDiFuoriCheSiBurla": {
+				"audio_file": "54_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-11_Recitativo.wav",
+				"t_start": "0:03:16.995"
+			},
+			"26_OStatua": {
+				"audio_file": "55_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-11_N22-Duetto.wav",
+				"t_start": "0:00:00.186"
+			},
+			"27_CalmateviIdolMio": {
+				"audio_file": "56_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-12_Recitativo-1-+-N23-Recitativo.wav",
+				"t_start": "0:00:03.048"
+			},
+			"28_CrudeleAhNoMioBene": {
+				"audio_file": "56_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-12_Recitativo-1-+-N23-Recitativo.wav",
+				"t_start": "0:00:59.314"
+			},
+			"29_NonMiDir_BellIdolMio": {
+				"audio_file": "56_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-12_Recitativo-1-+-N23-Recitativo.wav",
+				"t_start": "0:03:01.110"
+			},
+			"30_AhSiSeguaIlSuoPasso": {
+				"audio_file": "57_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-12_Recitativo-2.wav",
+				"t_start": "0:00:00.169"
+			},
+			"31_GiaLaMensaEPreparata": {
+				"audio_file": "58_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scenes-13-and-14_N24-Finale-+-Scena-14.wav",
+				"t_start": "0:00:00.239"
+			},
+			"32_LUltimaProvaDellAmorMio": {
+				"audio_file": "58_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scenes-13-and-14_N24-Finale-+-Scena-14.wav",
+				"t_start": "0:05:04.697"
+			},
+			"33_AhSignorPerCarita": {
+				"audio_file": "58_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scenes-13-and-14_N24-Finale-+-Scena-14.wav",
+				"t_start": "0:07:56.038"
+			},
+			"34_DonGiovanniACenarTeco": {
+				"audio_file": "59_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-15_.wav",
+				"t_start": "0:00:00.209"
+			},
+			"35_OimeCheGeloEQuestoMai": {
+				"audio_file": "59_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-15_.wav",
+				"t_start": "0:05:37.996"
+			},
+			"36_DaQualTremoreInsolito": {
+				"audio_file": "59_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Scene-15_.wav",
+				"t_start": "0:06:43.681"
+			},
+			"37_AhDoveEIlPerfido": {
+				"audio_file": "60_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Final-Scene_.wav",
+				"t_start": "0:00:00.160"
+			},
+			"38_OrCheTuttiOMioTesoro": {
+				"audio_file": "60_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Final-Scene_.wav",
+				"t_start": "0:01:41.781"
+			},
+			"39_QuestoEIlFinDiChiFaMal": {
+				"audio_file": "60_BA4550_K-527-Karajan-Don-Giovanni_Act-2_Final-Scene_.wav",
+				"t_start": "0:04:41.437"
+			}
+		}
+	}
+}

@@ -1,0 +1,90 @@
+-
+  beats: [0, 4]
+  quarters: [0, 4]
+  seconds: [0, 4]
+  page: 1
+  topLeft: [0.166752, 0.147785]
+  topRight: [0.491297, 0.147304]
+  bottomRight: [0.4917, 0.246636]
+  bottomLeft: [0.167263, 0.245994]
+-
+  beats: [4, 8]
+  quarters: [4, 8]
+  seconds: [4, 8]
+  page: 1
+  topLeft: [0.491297, 0.147304]
+  topRight: [0.714298, 0.146974]
+  bottomRight: [0.714627, 0.247076]
+  bottomLeft: [0.4917, 0.246636]
+-
+  beats: [8, 12]
+  quarters: [8, 12]
+  seconds: [8, 12]
+  page: 1
+  topLeft: [0.714298, 0.146974]
+  topRight: [0.930031, 0.146654]
+  bottomRight: [0.930286, 0.247502]
+  bottomLeft: [0.714627, 0.247076]
+-
+  beats: [12, 16]
+  quarters: [12, 16]
+  seconds: [12, 16]
+  page: 1
+  topLeft: [0.116701, 0.298963]
+  topRight: [0.396395, 0.299028]
+  bottomRight: [0.39665, 0.397549]
+  bottomLeft: [0.116956, 0.397549]
+-
+  beats: [16, 20]
+  quarters: [16, 20]
+  seconds: [16, 20]
+  page: 1
+  topLeft: [0.396395, 0.299028]
+  topRight: [0.651512, 0.299087]
+  bottomRight: [0.651767, 0.397549]
+  bottomLeft: [0.39665, 0.397549]
+-
+  beats: [20, 24]
+  quarters: [20, 24]
+  seconds: [20, 24]
+  page: 1
+  topLeft: [0.651512, 0.299087]
+  topRight: [0.930797, 0.299152]
+  bottomRight: [0.931052, 0.397549]
+  bottomLeft: [0.651767, 0.397549]
+-
+  beats: [24, 28]
+  quarters: [24, 28]
+  seconds: [24, 28]
+  page: 1
+  topLeft: [0.116701, 0.450518]
+  topRight: [0.377359, 0.450518]
+  bottomRight: [0.377441, 0.549549]
+  bottomLeft: [0.116701, 0.54967]
+-
+  beats: [28, 32]
+  quarters: [28, 32]
+  seconds: [28, 32]
+  page: 1
+  topLeft: [0.377359, 0.450518]
+  topRight: [0.618155, 0.450518]
+  bottomRight: [0.618313, 0.549438]
+  bottomLeft: [0.377441, 0.549549]
+-
+  beats: [32, 36]
+  quarters: [32, 36]
+  seconds: [32, 36]
+  page: 1
+  topLeft: [0.618155, 0.450518]
+  topRight: [0.854809, 0.450518]
+  bottomRight: [0.855041, 0.549328]
+  bottomLeft: [0.618313, 0.549438]
+-
+  beats: [36, 36]
+  quarters: [36, 36]
+  seconds: [36, 36]
+  page: 1
+  topLeft: [0.854809, 0.450518]
+  topRight: [0.930797, 0.450518]
+  bottomRight: [0.931052, 0.549293]
+  bottomLeft: [0.855041, 0.549328]

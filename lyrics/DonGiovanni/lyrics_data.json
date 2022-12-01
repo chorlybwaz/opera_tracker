@@ -1,0 +1,325 @@
+{
+	"Place": "Vienna State Opera",
+	"Date": "2018-11-18",
+	"Piece": "Don Giovanni",
+	"Author": "Wolfgang Amadeus Mozart",
+	"Place": "Vienna State Opera",
+	"Conductor": "Adam Fischer",
+	"Director": "Jean-Louis Martinoty",
+	"Audio": {
+		"Act 1": {
+			"filepath": "/media/charles/Data/Don Giovanni/lyrics/WSO_Don_Giovanni.xlsx",
+			"Ouvertura": {
+				"":{
+					"line_start": "",
+					"line_end": ""
+				}
+			},
+			"Scene 1": {
+				"N1 Introduzione": {
+					"line_start": "14",
+					"line_end": "108"
+				}
+			},
+			"Scene 2": {
+				"Recitativo":{
+					"line_start": "114",
+					"line_end": "135"
+				}
+			},
+			"Scene 3": {
+				"Recitativo":{
+					"line_start": "142",
+					"line_end": "148"
+				},
+				"N2 Recitativo":{
+					"line_start": "154",
+					"line_end": "291"
+				}
+			},
+			"Scene 4": {
+				"Recitativo":{
+					"line_start": "298",
+					"line_end": "364"
+				}
+			},
+			"Scene 5": {
+				"N3 Aria":{
+					"line_start": "370",
+					"line_end": "418"
+				},
+				"Recitativo":{
+					"line_start": "419",
+					"line_end": "512"
+				},
+				"N4 Aria":{
+					"line_start": "518",
+					"line_end": "607"
+				}
+			},
+			"Scene 6": {
+				"Recitativo":{
+					"line_start": "",
+					"line_end": ""
+				}
+			},
+			"Scene 7": {
+				"N5 Coro":{
+					"line_start": "614",
+					"line_end": "642"
+				}
+			},
+			"Scene 8": {
+				"Recitativo":{
+					"line_start": "650",
+					"line_end": "734"
+				},
+				"N6 Aria":{
+					"line_start": "742",
+					"line_end": "791"
+				}
+			},
+			"Scene 9": {
+				"Recitativo":{
+					"line_start": "798",
+					"line_end": "848"
+				},
+				"N7 Duetto":{
+					"line_start": "854",
+					"line_end": "888"
+				}
+			},
+			"Scene 10": {
+				"Recitativo":{
+					"line_start": "894",
+					"line_end": "919"
+				},
+				"N8 Aria":{
+					"line_start": "926",
+					"line_end": "940"
+				}
+			},
+			"Scene 11": {
+				"Recitativo":{
+					"line_start": "946",
+					"line_end": "972"
+				}
+			},
+			"Scene 12": {
+				"":{
+					"line_start": "974",
+					"line_end": "975"
+				},
+				"N9 Quartetto":{
+					"line_start": "982",
+					"line_end": "1059"
+				},
+				"Recitativo":{
+					"line_start": "1066",
+					"line_end": "1072"
+				}
+			},
+			"Scene 13": {
+				"N10 Recitativo":{
+					"line_start": "1078",
+					"line_end": "1199"
+				}
+			},
+			"Scene 14": {
+				"Recitativo":{
+					"line_start": "1214",
+					"line_end": "1223"
+				},
+				"N10a Aria":{
+					"line_start": "1230",
+					"line_end": "1248"
+				}
+			},
+			"Scene 15": {
+				"Recitativo":{
+					"line_start": "1254",
+					"line_end": "1324"
+				},
+				"N11 Aria":{
+					"line_start": "1330",
+					"line_end": "1351"
+				}
+			},
+			"Scenes 16 and 17": {
+				"Recitativo 1":{
+					"line_start": "1358",
+					"line_end": "1395"
+				},
+				"N12 Aria":{
+					"line_start": "1398",
+					"line_end": "1428"
+				},
+				"Recitativo 2":{
+					"line_start": "1434",
+					"line_end": "1452"
+				},
+				"N13 Finale + Scena 17":{
+					"line_start": "1458",
+					"line_end": "1504"
+				}
+			},
+			"Scenes 18 and 19": {
+				"":{
+					"line_start": "1510",
+					"line_end": "1616"
+				}
+			},
+			"Scene 20": {
+				"Allegro":{
+					"line_start": "1622",
+					"line_end": "1804"
+				}
+			}
+		},
+		"Act 2": {
+			"filepath": "/media/charles/Data/Don Giovanni/lyrics/WSO_Don_Giovanni.xlsx",
+			"Scene 1": {
+				"N14 Duetto": {
+					"line_start": "1810",
+					"line_end": "1828"
+				},
+				"Recitativo": {
+					"line_start": "1834",
+					"line_end": "1892"
+				}
+			},
+			"Scene 2": {
+				"N15 Terzetto": {
+					"line_start": "1898",
+					"line_end": "1960"
+				},
+				"Recitativo": {
+					"line_start": "1966",
+					"line_end": "1984"
+				}
+			},
+			"Scene 3": {
+				"Recitativo 1": {
+					"line_start": "1990",
+					"line_end": "2051"
+				},
+				"N16 Canzonetta": {
+					"line_start": "2058",
+					"line_end": "2087"
+				},
+				"Recitativo 2": {
+					"line_start": "2094",
+					"line_end": "2095"
+				}
+			},
+			"Scene 4": {
+				"": {
+					"line_start": "2102",
+					"line_end": "2139"
+				},
+				"N17 Aria": {
+					"line_start": "2146",
+					"line_end": "2219"
+				}
+			},
+			"Scene 5": {
+				"Recitativo": {
+					"line_start": "2226",
+					"line_end": "2254"
+				}
+			},
+			"Scene 6": {
+				"Recitativo": {
+					"line_start": "2262",
+					"line_end": "2299"
+				},
+				"N18 Aria": {
+					"line_start": "2306",
+					"line_end": "2335"
+				}
+			},
+			"Scene 7": {
+				"Recitativo": {
+					"line_start": "2342",
+					"line_end": "2360"
+				},
+				"N19 Sestetto": {
+					"line_start": "2366",
+					"line_end": "2415"
+				}
+			},
+			"Scene 8": {
+				"": {
+					"line_start": "2418",
+					"line_end": "2476"
+				}
+			},
+			"Scene 9": {
+				"Recitativo": {
+					"line_start": "2482",
+					"line_end": "2498"
+				},
+				"N20 Aria": {
+					"line_start": "2502",
+					"line_end": "2550"
+				}
+			},
+			"Scene 10": {
+				"Recitativo": {
+					"line_start": "2558",
+					"line_end": "2576"
+				},
+				"N21 Aria": {
+					"line_start": "2582",
+					"line_end": "2603"
+				},
+				"N21 Recitativo": {
+					"line_start": "2610",
+					"line_end": "2651"
+				},
+				"Aria": {
+					"line_start": "2654",
+					"line_end": "2680"
+				}
+			},
+			"Scene 11": {
+				"Recitativo": {
+					"line_start": "2686",
+					"line_end": "2831"
+				}, 
+				"N22 Duetto": {
+					"line_start": "2838",
+					"line_end": "2920"
+				}
+			},
+			"Scene 12": {
+				"Recitativo 1 + N23 Recitativo": {
+					"line_start": "2926",
+					"line_end": "3011"
+				},
+				"Recitativo 2": {
+					"line_start": "",
+					"line_end": ""
+				}
+			},
+			"Scenes 13 and 14": {
+				"N24 Finale + Scena 14": {
+					"line_start": "3018",
+					"line_end": "3243"
+				}
+			},
+			"Scene 15": {
+				"": {
+					"line_start": "3250",
+					"line_end": "3368"
+				}
+			},
+			"Final Scene": {
+				"": {
+					"line_start": "3374",
+					"line_end": "3447"
+				}
+			}
+		}
+	}
+}
